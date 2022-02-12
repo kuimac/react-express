@@ -1,0 +1,20 @@
+{
+  "name": "react-express",
+  "version": "1.0.0",
+  "description": "](https://qiita.com/fe_js_engineer/items/b052918f64b2df554d0f)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuimac/react-express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kuimac/react-express/issues"
+  },
+  "homepage": "https://github.com/kuimac/react-express#readme"
+}
